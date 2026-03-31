@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%" alt="Programador codando"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="70%" alt="Programador codando"/>
 </p>
 
 <h1 align="center">Olá, eu sou Erick Xavier 👋</h1>
@@ -51,23 +51,19 @@
 
 ---
 
-## 🚧 Atualmente estudando
+## 🛠️ Tecnologias que já conheço
 
-🐍 Python  
-⚡ JavaScript  
-📱 Kotlin  
-🎨 HTML  
-🎨 CSS  
-🌶️ Flask  
-🚀 Django  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,html,css,flask,django" />
+</p>
 
 ---
 
-## 🛠️ Tecnologias
+## 📚 Atualmente estudando
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,html,css,flask,django,git,mysql,vscode,linux" />
-</p>
+☕ Java  
+⚛️ React  
+🟢 Node.js  
 
 ---
 

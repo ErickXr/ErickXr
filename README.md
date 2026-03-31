@@ -40,6 +40,8 @@
 
 ## 🔥 Projetos em destaque
 
+## 🔥 Projetos em destaque
+
 <p align="center">
   <a href="https://github.com/ErickXr/Event-Pass">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErickXr&repo=Event-Pass&theme=radical" />
@@ -48,7 +50,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErickXr&repo=Projeto_Web_HTML-JavaScript-API&theme=radical" />
   </a>
 </p>
-
 ---
 
 ## 🛠️ Tecnologias 

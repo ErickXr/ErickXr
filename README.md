@@ -51,7 +51,7 @@
 
 ---
 
-## 🛠️ Tecnologias que já conheço
+## 🛠️ Tecnologias 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,html,css,flask,django" />

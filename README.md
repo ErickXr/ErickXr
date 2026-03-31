@@ -4,7 +4,7 @@
 
 Me chamo Erick Xavier, tenho 20 anos e sou natural de São Paulo.Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Impacta. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[ErickXr](https://www.youtube.com/channel/UCfNzlhlcJK2_9OH6OrK_48w)"
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-louren%C3%A7o-8065082ba/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickxavierdev/)  
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ErickXr)  
 
 <p align="left">

@@ -158,8 +158,3 @@ Me chamo Erick Xavier, tenho 20 anos e sou natural de São Paulo.Atualmente, est
 <br/>
 <br/>
 
-## 📊 Estatísticas do GitHub  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErickXr&show_icons=true&locale=pt-br&layout=compact&theme=radical)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ErickXr&show_icons=true&theme=radical&locale=pt-br)  

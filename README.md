@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Programador codando"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="60%" alt="Programador codando"/>
 </p>
 
 <h1 align="center">Olá, eu sou Erick Xavier 👋</h1>

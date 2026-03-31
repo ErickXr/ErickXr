@@ -1,16 +1,40 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKPFFx9v3R0Y1c4/giphy.gif" width="100%" alt="banner"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Programador codando"/>
 </p>
 
-<h1 align="center">Olá, eu sou Erick Xavier Ribeiro 👋</h1>
-
-<p align="center">
-💻 Aluno de ADS na Faculdade Impacta • 🌐 Aspirante a <strong><i>Full Stack Developer</i></strong>
-</p>
+<h1 align="center">Olá, eu sou Erick Xavier 👋</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/erickxavierdev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+🎓 Faculdade Impacta <br>
+🚀 Sonho em me tornar Desenvolvedor Full Stack
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/erickxavierdev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ErickXr">
+    <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+🎓 Estudante de ADS na Faculdade Impacta  
+💡 Apaixonado por desenvolvimento web  
+🚀 Buscando minha primeira oportunidade como desenvolvedor  
+🔥 Focado em me tornar Full Stack  
+📚 Sempre aprendendo novas tecnologias  
+
+---
+
+## 🌐 Portfólio ao vivo
+
+🚀 Em breve: Meu portfólio online  
+🔗 https://seu-portfolio-aqui.com  
 
 ---
 
@@ -27,24 +51,27 @@
 
 ---
 
-## 🚧 Atualmente trabalhando em
+## 🚧 Atualmente estudando
 
-<p align="center">
-  🔨 [Seu Próximo Projeto Full Stack](https://github.com/ErickXr)  
-  💡 Aprendendo a integrar <strong>Front-end e Back-end</strong>
-</p>
+🐍 Python  
+⚡ JavaScript  
+📱 Kotlin  
+🎨 HTML  
+🎨 CSS  
+🌶️ Flask  
+🚀 Django  
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,mysql,python" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,kotlin,html,css,flask,django,git,mysql,vscode,linux" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickXr&show_icons=true&theme=radical"/>
@@ -53,8 +80,23 @@
 
 ---
 
-## 🔥 Streak
+## 🔥 Sequência de contribuições
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ErickXr&theme=radical" />
 </p>
+
+---
+
+## 👀 Contador de visitas
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ErickXr&color=blue" alt="contador"/>
+</p>
+
+---
+
+## 📫 Contato
+
+📩 LinkedIn: https://www.linkedin.com/in/erickxavierdev/  
+🚀 Aberto a oportunidades como Desenvolvedor Full Stack

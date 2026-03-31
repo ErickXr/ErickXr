@@ -42,10 +42,10 @@
 
 <p align="center">
   <a href="https://github.com/ErickXr/Event-Pass">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErickXr&repo=Event-Pass&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErickXr&repo=Event-Pass&theme=radical&cache_seconds=86400" />
   </a>
   <a href="https://github.com/ErickXr/Projeto_Web_HTML-JavaScript-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErickXr&repo=Projeto_Web_HTML-JavaScript-API&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ErickXr&repo=Projeto_Web_HTML-JavaScript-API&theme=radical&cache_seconds=86400" />
   </a>
 </p>
 ---
